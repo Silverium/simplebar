@@ -21,7 +21,7 @@ SimpleBar uses pure CSS to style the scrollbar. You can easily customize it as y
 
 #### Lightweight and performant
 
-Only 6kb minified. SimpleBar doesn't use Javascript to handle scrolling. You keep the performances/behaviours of the native scroll.
+Only 23.4kb minified. SimpleBar doesn't use Javascript to handle scrolling. You keep the performances/behaviours of the native scroll.
 
 #### Supported everywhere
 
